@@ -10,3 +10,12 @@ Sou um desenvolvedor Full Stack, com paixão por transformar ideias em realidade
 - 💬 Pergunte-me: oque você desejar.
 - 📫 Como entrar em contato comigo: caiolopes0816@gmail.com
 - ⚡ Curiosidade: Gosto trabalhar em equipe, conhecer pessos e adoro novos desafios!
+
+
+
+## Minhas Estatísticas
+
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiolf9616&show_icons=true)
+
+## Linguagens e Ferramentas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiolf9616&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
