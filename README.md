@@ -11,7 +11,7 @@ Sou um desenvolvedor Full Stack, com paixão por transformar ideias em realidade
 - 📫 Como entrar em contato comigo: caiolopes0816@gmail.com
 - ⚡ Curiosidade: Gosto trabalhar em equipe, conhecer pessos e adoro novos desafios!
 
-- hr
+  
 
 
 
