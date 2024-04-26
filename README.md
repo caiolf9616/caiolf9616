@@ -28,7 +28,7 @@ Sou um desenvolvedor Full Stack, com paixão por transformar ideias em realidade
 </a>
 
 
-<a href="Caiolopes0816@gmail.com">
+<a href="mailto:Caiolopes0816@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a> 
 
