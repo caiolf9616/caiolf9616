@@ -23,12 +23,12 @@ Sou um desenvolvedor Full Stack, com paixão por transformar ideias em realidade
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiolf9616&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-<a href="link do seu perfil do linkedin">
+<a href="https://www.linkedin.com/in/caio-lopes-794662293/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 
-<a href="link email">
+<a href="Caiolopes0816@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a> 
 
