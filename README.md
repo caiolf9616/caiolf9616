@@ -29,7 +29,7 @@ Sou um desenvolvedor Full Stack, com paixão por transformar ideias em realidade
 
 
 <a href="link email">
-<img src=" https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a> 
 
 <a href="link do instagram">
