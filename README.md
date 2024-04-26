@@ -9,7 +9,7 @@ Sou um desenvolvedor Full Stack, com paixão por transformar ideias em realidade
 - 🤔 Estou procurando ajuda com Apis, NojeJS.
 - 💬 Pergunte-me: oque você desejar.
 - 📫 Como entrar em contato comigo: caiolopes0816@gmail.com
-- ⚡ Curiosidade: Gosto trabalhar em equipe, conhecer pessos e adoro novos desafios!
+- ⚡ Curiosidade: Gosto trabalhar em equipe, conhecer pessoas novas e adoro novos desafios!
 
   
 
