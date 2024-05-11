@@ -4,7 +4,7 @@ Olá, eu sou Caio Fernandes! 👋
 Sou um desenvolvedor Full Stack, com paixão por transformar ideias em realidade usando código. Atualmente estou focado em Python, Javascript, html, css e SQL. sempre estou explorando novas tecnologias e tendências no mundo do desenvolvimento.
 
 - 🔭 Atualmente estou trabalhando em Projetos Pessoais.
-- 🌱 Estou aprendendo html e css.
+- 🌱 Estou aprendendo html/css e Javascript.
 - 👯 Estou procurando colaborar em Front-end e Back-end.
 - 🤔 Estou procurando ajuda com Apis, NojeJS.
 - 💬 Pergunte-me: oque você desejar.
