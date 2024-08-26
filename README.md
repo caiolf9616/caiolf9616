@@ -6,7 +6,7 @@ Sou um desenvolvedor Full Stack, com paixão por transformar ideias em realidade
 - 🔭 Atualmente estou trabalhando em Projetos Pessoais.
 - 🌱 Estou aprendendo html/css e Javascript.
 - 👯 Estou procurando colaborar em Front-end e Back-end.
-- 🤔 Estou procurando ajuda com Apis, NojeJS.
+- 🤔 Estou procurando ajuda com Apis.
 - 💬 Pergunte-me: oque você desejar.
 - 📫 Como entrar em contato comigo: caiolopes0816@gmail.com
 - ⚡ Curiosidade: Gosto trabalhar em equipe, conhecer pessoas novas e adoro novos desafios!
