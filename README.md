@@ -15,7 +15,7 @@ Desenvolvedor Full Stack apaixonado por transformar ideias em soluções funcion
 
 🤝 Aberto a colaborações em projetos de Front-end e Back-end.
 
-📚 Sempre em evolução — atualmente aprofundando conhecimentos em JavaScript, HTML e CSS.
+📚 Atualmente focado em aprimorar meus conhecimentos em Java, por conta de projetos práticos no curso de Análise e Desenvolvimento de Sistemas.
 
 📬 Contato: caiolopes0816@gmail.com
 💬 Sinta-se à vontade para me chamar para trocar ideias, tirar dúvidas ou propor parcerias.
