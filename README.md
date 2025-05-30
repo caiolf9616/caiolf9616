@@ -1,16 +1,24 @@
 Olá, eu sou Caio Fernandes! 👋
 
 ## Sobre Mim
-Sou um desenvolvedor Full Stack, com paixão por transformar ideias em realidade usando código. Atualmente estou focado em Python, Javascript, html, css e SQL. sempre estou explorando novas tecnologias e tendências no mundo do desenvolvimento.
+Desenvolvedor Full Stack apaixonado por transformar ideias em soluções funcionais por meio da programação. Tenho experiência com Python, JavaScript, HTML, CSS e SQL, e estou constantemente explorando novas tecnologias e tendências no mundo do desenvolvimento.
 
-- 🔭 Atualmente estou trabalhando em Projetos Pessoais.
-- 🌱 Estou aprendendo html/css e Javascript.
-- 👯 Estou procurando colaborar em Front-end e Back-end.
-- 🤔 Estou procurando ajuda com Apis.
-- 💬 Pergunte-me: oque você desejar.
-- 📫 Como entrar em contato comigo: caiolopes0816@gmail.com
-- ⚡ Curiosidade: Gosto trabalhar em equipe, conhecer pessoas novas e adoro novos desafios!
+💡 Atualmente estou focado em projetos pessoais que me desafiam tanto no Front-end quanto no Back-end, e busco sempre aplicar boas práticas e aprender algo novo a cada linha de código.
 
+🚀 Habilidades em desenvolvimento:
+
+🔧 Front-end: HTML, CSS, JavaScript
+
+🖥️ Back-end: Python, SQL
+
+📡 Estudando e praticando Java
+
+🤝 Aberto a colaborações em projetos de Front-end e Back-end.
+
+📚 Sempre em evolução — atualmente aprofundando conhecimentos em JavaScript, HTML e CSS.
+
+📬 Contato: caiolopes0816@gmail.com
+💬 Sinta-se à vontade para me chamar para trocar ideias, tirar dúvidas ou propor parcerias.
   
 
 
