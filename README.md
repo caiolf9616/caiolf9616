@@ -65,8 +65,13 @@ Desenvolvedor Full Stack apaixonado por transformar ideias em soluções funcion
 </span> 
 
 <span>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
+</span> 
+
+<span>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </span>
+
 
 
 
